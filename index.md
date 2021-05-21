@@ -1,3 +1,5 @@
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "66d2e91cc3624a17a5d11d83ae782c5d"}'></script><!-- End Cloudflare Web Analytics -->
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alixcan/alixcan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
